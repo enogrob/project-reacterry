@@ -15,4 +15,10 @@ Learn everything you need to about the subject of this `Project`.
 
 ## Topics
 ```
+Coding Challenges
+[ ] 
+Deep Dives
+[x] Quick reminder on operators and expressions in JS applications
+Quizzes
+[ ] 
 ```
