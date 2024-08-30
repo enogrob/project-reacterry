@@ -18,6 +18,7 @@ Learn everything you need to about the subject of this `Project`.
 Coding Challenges
 [ ] 
 Deep Dives
+[x] Functions
 [x] Quick reminder on operators and expressions in JS applications
 Quizzes
 [ ] 
