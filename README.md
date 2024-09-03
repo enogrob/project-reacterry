@@ -21,5 +21,5 @@ Deep Dives
 [x] Functions
 [x] Quick reminder on operators and expressions in JS applications
 Quizzes
-[ ] 
+[x] Functons
 ```
