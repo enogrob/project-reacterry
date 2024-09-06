@@ -22,4 +22,5 @@ Deep Dives
 [x] Quick reminder on operators and expressions in JS applications
 Quizzes
 [x] Functons
+[x] Null/undefined
 ```
